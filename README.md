@@ -1,4 +1,4 @@
-# Hello World, I am <a href="https://aaroha33.github.io/">Aaroha👋 </a>
+# Hello World, I am <a href="https://aaroha33.github.io/">Aaroha</a> 👋 
 
 ### My Formal Name is Buddhadeb Mondal.
 
