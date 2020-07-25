@@ -7,7 +7,7 @@
 <!-- **aaroha33/aaroha33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-Connect me Here !
+Connect me Here <br>
 <a href="https://www.linkedin.com/in/buddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/aaroha33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/lbuddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/facebook.png" width="40" /></a>
@@ -16,15 +16,15 @@ Connect me Here !
 <a href="https://www.instagram.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/instagram.png" width="40" /></a>
 
 
-####  **Languages and Tools I know **  
+#### Languages and Tools I know  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://www.cleanpng.com/png-tableau-software-computer-software-logo-business-i-6513051/"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/828667?s=200&v=4"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/17151892?s=400&u=891b7c4c2050a569d7825a5ab02c197d8db6c442&v=4"></code>    
 
 ### Show some ❤️ by starring some of the repositories!
 <!--
