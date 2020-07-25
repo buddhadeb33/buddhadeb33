@@ -35,8 +35,12 @@ Connect me Here <br>
   <li>You can react ❤️ to my LinkedIn posts.</li>
   <li> You can buy me a Coffee by clicking the below button</li>
 </ul>
-<a href="https://www.buymeacoffee.com/TLmhCV5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
+
+<a href="https://www.buymeacoffee.com/TLmhCV5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
+
+
 ### Show some ❤️ by starring some of the repositories!
+
 <!--
 - 🔭 I’m currently working in Ericsson Global India Pvt. Ltd.
 - 🌱 I’m currently learning ...
