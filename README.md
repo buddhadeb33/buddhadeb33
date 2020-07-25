@@ -1,6 +1,6 @@
-### Hello World, I am Aaroha 👋
+# Hello World, I am Aaroha 👋
 
-## My Formal Name is Buddhadeb Mondal.
+### My Formal Name is Buddhadeb Mondal.
 
 <img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="230" />
 
