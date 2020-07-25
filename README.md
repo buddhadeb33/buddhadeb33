@@ -26,6 +26,15 @@ Connect me Here <br>
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/828667?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/17151892?s=400&u=891b7c4c2050a569d7825a5ab02c197d8db6c442&v=4"></code>    
 
+
+<h3>What if you like my work? 🤩</h3>
+<ul>
+  <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/">patreon profile</a>.</li>
+  <li> You can buy me a Coffee<a href ="https://www.buymeacoffee.com/HjTAws1"</a></li>
+  <li>You can Star ⭐ the repositories you like.</li>
+  <li>You can react ❤️ to my LinkedIn posts.</li>
+</ul>
+
 ### Show some ❤️ by starring some of the repositories!
 <!--
 - 🔭 I’m currently working in Ericsson Global India Pvt. Ltd.
