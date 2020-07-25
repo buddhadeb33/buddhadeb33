@@ -33,7 +33,7 @@ Connect me Here <br>
   
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
-  <li> You can buy me a Coffee by clicking the below button</li>
+  <li> <span style="color: green"> You can buy me a Coffee by clicking the below button </span></li>
 </ul>
 
 <a href="https://www.buymeacoffee.com/TLmhCV5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
