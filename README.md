@@ -1,5 +1,7 @@
 ### Hello World, I am Aaroha 👋
 
+## My Formal Name is Buddhadeb Mondal.
+
 <img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="230" />
 
 <!-- **aaroha33/aaroha33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -14,7 +16,7 @@
 
 
 
-
+<!--
 - 🔭 I’m currently working in Ericsson Global India Pvt. Ltd.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
