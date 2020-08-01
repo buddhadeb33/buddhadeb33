@@ -1,13 +1,13 @@
 # Hello World, I am <a href="https://aaroha33.github.io/">Aaroha</a> 👋 
 
-### My Formal Name is Buddhadeb Mondal.
+## My Formal Name is Buddhadeb Mondal.
 
 <img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="230" />
 
 <!-- **aaroha33/aaroha33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-Connect me Here <br>
+### Connect me Here <br>
 <a href="https://www.linkedin.com/in/buddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/aaroha33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/lbuddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/facebook.png" width="40" /></a>
