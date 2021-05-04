@@ -1,6 +1,6 @@
-# Hello World, I am <a href="https://aaroha33.github.io/">Aaroha</a> 👋 
+# Hello World, I am <a href="https://aaroha33.github.io/">Buddhadeb</a> 👋 
 
-## My Formal Name is Buddhadeb Mondal.
+You can Call me Buddha or Mondal 😊
 
 <img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="230" />
 
