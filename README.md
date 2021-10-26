@@ -1,15 +1,16 @@
+
+<img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="130" />
+
 #  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hello World, I am <a href="https://aaroha33.github.io/">Buddhadeb</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-
-A passionate self-taught software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-<img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="230" />
+  
+I am a versatilist and easily adapt to different hats (software Developer 🌐, Data Scientist 📈, ML Engineer 🤖 or Designer 🎨 depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 
-<!-- **aaroha33/aaroha33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
+-------------------
+-------------------
+<img align='right' src="https://github.com/buddhadeb33/buddhadeb33/blob/1621a88aa9c7cc370cca130d09894ad6b9286884/logos/techstack.gif" width="200" />
+  
 ### Connect me Here <br>
 <a href="https://www.linkedin.com/in/buddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/linkedin.png" height="40" width="40" /></a>
 <a href="https://github.com/aaroha33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/github-logo.png"  height="40" width="40" /></a>
@@ -19,6 +20,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://www.instagram.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/instagram.png" width="40" /></a>
 
 
+  
 #### Languages and Tools I know  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -41,7 +43,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 --------------------------
 --------------------------
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/buddhadeb33/buddhadeb33/blob/22c4c6921a6f08db69f2171adc6d4bb42bb130b8/logos/code.gif?raw=true" width="400" height="250" />
 
 <h3>What if you like my work? 🤩</h3>
 <ul>
