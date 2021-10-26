@@ -12,12 +12,12 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
 <img align='right' src="https://github.com/buddhadeb33/buddhadeb33/blob/1621a88aa9c7cc370cca130d09894ad6b9286884/logos/techstack.gif" width="200" />
   
 ### Connect me Here <br>
-<a href="https://www.linkedin.com/in/buddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/linkedin.png" height="40" width="40" /></a>
-<a href="https://github.com/aaroha33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/github-logo.png"  height="40" width="40" /></a>
-<a href="https://www.facebook.com/lbuddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:buddhadeb33@gmail.com"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/aroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/buddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/linkedin.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/aaroha33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/github-logo.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/lbuddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/facebook.png" width="50" /></a>&nbsp;&nbsp;
+<a href="mailto:buddhadeb33@gmail.com"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/google-plus.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/aroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/twitter.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/instagram.png" width="50" /></a>
 
 
   
