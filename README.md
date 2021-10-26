@@ -38,7 +38,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 <br />
 
-
+--------------------------
+--------------------------
+  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 
 <h3>What if you like my work? 🤩</h3>
 <ul>
@@ -55,8 +58,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### Show some ❤️ by starring some of the repositories!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=buddhadeb33)
+![GitHub last commit](https://img.shields.io/github/last-commit/buddhadeb33/buddhadeb33)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 - 🔭 I’m currently working in Ericsson Global India Pvt. Ltd.
