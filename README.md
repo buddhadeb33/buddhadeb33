@@ -17,6 +17,8 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
 <a href="https://www.facebook.com/lbuddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/facebook.png" width="50" /></a>&nbsp;&nbsp;
 <a href="mailto:buddhadeb33@gmail.com"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/google-plus.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/aroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/twitter.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/aroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/kaggle.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/aroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/whatsapp.jpg" width="50" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/instagram.png" width="50" /></a>
 
 
