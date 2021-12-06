@@ -166,7 +166,7 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
 ### Connect with Me ⭐ :
 <table>
   <tr>
-    <th><a href=""mailto:buddhadeb33@gmail.com"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/google-plus.png"  height="50" width="50"></a></th>
+    <th><a href=""mailto:buddhadeb33@gmail.com"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/Gmail.svg"  height="50" width="50"></a></th>
     <th><a href="https://www.linkedin.com/in/buddhadeb33/"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/linkedin.png" height="50" width="50"></a></th>
     <th><a href="https://www.kaggle.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/kaggle.png" height="50" width="50"></a></th>
     <th><a "https://twitter.com/buddhadeb33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/twitter.png" height="50" width="50"></a></th>
