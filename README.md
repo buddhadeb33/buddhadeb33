@@ -1,4 +1,3 @@
-
 <img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="130" />
 
 # Hello 👋 World 🌐
@@ -60,7 +59,7 @@
   </tr>
 </table><br>
 
-### Frameworks ⭐ :
+### Frameworks 🤖 :
 <table>
   <tr>
     <th><a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/tensorflow-icon.svg" height="50" width="50"></a></th>
@@ -92,36 +91,29 @@
   <table>
 <br>
 
-### Tools & IDE ⭐ :
+### Tools & IDE 📟 :
 <table>
   <tr>
-    <th><a href="https://jupyter.org/" target="_blank"><img src="Images/jupyter-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="Images/pycharm.svg" height="64" width="64"></a></th> 
+    <th><a href="https://git-scm.com/doc" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="64" width="64"></a></th>
+    <th><a href="https://jupyter.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/jupyter-icon.svg" height="64" width="64"></a></th>
+    <th><a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="64" width="64"></a></th>
+    <th><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/pycharm.svg" height="64" width="64"></a></th> 
     <th><a href="https://code.visualstudio.com/download" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="64" width="64"></a></th>
-    <th><a href="https://www.tableau.com/" target="_blank"><img src="Images/tableau.svg" height="64" width="64"></a></th>
-    <th><a href="https://colab.research.google.com/" target="_blank"><img src="Images/google-colab.png" height="64" width="64"></a></th>
-    <th><a href="https://www.anaconda.com/" target="_blank"><img src="Images/anaconda.png" height="64" width="64"></a></th>
- 
+    <th><a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/tableau.svg" height="64" width="64"></a></th>
+    <th><a href="https://colab.research.google.com/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/google-colab.png" height="64" width="64"></a></th>
+    <th><a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/anaconda.png" height="64" width="64"></a></th>
+  
   </tr>
+  
   <tr>
+    <th>Git</th>
     <th>Jupyter</th>
+    <th>MySQL</th>
     <th>Pycharm</th>
     <th>VS Code</th>
     <th>Tableau</th>
     <th>Google Colab</th>
     <th>Anaconda</th>
-    
-    
-  </tr>
-</table>
-<table>
-  <tr>
-    <th><a href="https://git-scm.com/doc" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="64" width="64"></a></th>
-    <th><a href="https://code.visualstudio.com/insiders/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Git</th>
-    <th>VS Insiders</th>
   </tr>
 </table>
 <br>
@@ -158,7 +150,7 @@
 ### Show some ❤️ by starring some of the repositories!
   
 --------------------------------------------------
-### Connect with Me ⭐ :
+### Connect with Me 📩 :
 <table>
   <tr>
     <th><a href=""mailto:buddhadeb33@gmail.com"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/Gmail.svg"  height="50" width="50"></a></th>
