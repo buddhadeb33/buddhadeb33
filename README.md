@@ -50,7 +50,9 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
   <tr>
     <th><a href="https://www.python.org/"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/python-icon.svg"></a></th>
     <th><a href="https://dart.dev/" ><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" height="64" width="64"></a></th>
-     <th><a href="https://docs.julialang.org/en/v1/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="64" width="64"></a></th>
+     <th><a href="https://sql.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="64" width="80"></a></th>
+    <th><a href="https://docs.julialang.org/en/v1/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="64" width="64"></a></th>
+    <th><a href="https://docs.julialang.org/en/v1/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Python</th>
