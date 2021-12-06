@@ -1,11 +1,11 @@
 
 <img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="130" />
 
-#  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hello World, I am <a href="https://aaroha33.github.io/">Buddhadeb</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-  
-I am a versatilist and easily adapt to different hats (software Developer 🌐, Data Scientist 📈, ML Engineer 🤖 or Designer 🎨 depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+# Hello 👋 World 🌐
 
+## Welcome 🤝 to My Github Profile 🏟🎆
 
+𝙄 𝙖𝙢 𝙖 𝙫𝙚𝙧𝙨𝙖𝙩𝙞𝙡𝙞𝙨𝙩 𝙖𝙣𝙙 𝙚𝙖𝙨𝙞𝙡𝙮 𝙖𝙙𝙖𝙥𝙩 𝙩𝙤 𝙙𝙞𝙛𝙛𝙚𝙧𝙚𝙣𝙩 𝙝𝙖𝙩𝙨 (𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 🌐, 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙩𝙞𝙨𝙩 📈, 𝙈𝙇 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 🤖 𝙤𝙧 𝘿𝙚𝙨𝙞𝙜𝙣𝙚𝙧 🎨 𝙙𝙚𝙥𝙚𝙣𝙙𝙞𝙣𝙜 𝙤𝙣 𝙬𝙝𝙖𝙩 𝙩𝙝𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 𝙧𝙚𝙦𝙪𝙞𝙧𝙚𝙨. 𝙄 𝙡𝙤𝙫𝙚 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙣𝙚𝙬 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 💻 𝙖𝙣𝙙 𝙡𝙚𝙫𝙚𝙧𝙖𝙜𝙞𝙣𝙜 𝙩𝙝𝙚𝙢 𝙩𝙤 𝙗𝙪𝙞𝙡𝙙 𝙘𝙤𝙤𝙡 𝙨𝙩𝙪𝙛𝙛𝙨 🛠️.
 
 -------------------
 -------------------
@@ -21,7 +21,7 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
 <a href="https://www.kaggle.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/kaggle.png" width="30" /></a>&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=7501385296&text=Hey%20!%20Hope%20you%20are%20having%20a%20good%20time%20!"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/whatsapp.jpg" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aaroha33"><img src="https://github.com/aaroha33/aaroha33/blob/master/logos/instagram.png" width="30" /></a>
---->
+
 
   
 #### Languages and Tools I know  
@@ -39,13 +39,10 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
   
+--->
+# Tools and Technology :
 
-  
-<br />
-
-  ## Tools and Technology :
-
-### Languages ⭐ :
+### Languages 👨‍💻️ :
 <table>
   <tr>
     <th><a href="https://www.python.org/"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/python-icon.svg"></a></th>
