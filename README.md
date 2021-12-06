@@ -49,10 +49,10 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
 <table>
   <tr>
     <th><a href="https://www.python.org/"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/python-icon.svg"></a></th>
-    <th><a href="https://dart.dev/" ><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" height="64" width="64"></a></th>
+    <th><a href="https://dart.dev/" ><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" height="64" width="80"></a></th>
      <th><a href="https://sql.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="64" width="80"></a></th>
-    <th><a href="https://docs.julialang.org/en/v1/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="64" width="64"></a></th>
-    <th><a href="https://docs.julialang.org/en/v1/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="64" width="64"></a></th>
+    <th><a href="https://docs.julialang.org/en/v1/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="64" width="80"></a></th>
+    <th><a href="https://docs.julialang.org/en/v1/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="64" width="80"></a></th>
   </tr>
   <tr>
     <th>Python</th>
@@ -66,14 +66,17 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
 ### Frameworks ⭐ :
 <table>
   <tr>
-    <th><a href="https://www.tensorflow.org/" target="_blank"><img src="Images/tensorflow-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://pytorch.org/tutorials/" target="_blank"><img src="Images/pytorch-icon.svg" height="64" width="64"></a></th> 
-    <th><a href="https://pandas.pydata.org/" target="_blank"><img src="Images/pandas2.png" height="64" width="68"></a></th>
-    <th><a href="https://keras.io/" target="_blank"><img src="Images/keras.svg" height="64" width="64"></a></th>
-    <th><a href="https://scikit-learn.org/" target="_blank"><img src="Images/scikit-learn2.svg" height="64" width="64"></a></th>
-    <th><a href="https://numpy.org/" target="_blank"><img src="Images/numpy-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://matplotlib.org/" target="_blank"><img src="Images/Matplotlib_icon.svg" height="64" width="64"></a></th>
-     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
+    <th><a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/tensorflow-icon.svg" height="50" width="50"></a></th>
+    <th><a href="https://pytorch.org/tutorials/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/pytorch-icon.svg" height="50" width="50"></a></th> 
+    <th><a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/pandas2.png" height="50" width="50"></a></th>
+    <th><a href="https://keras.io/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/keras.svg" height="50" width="50"></a></th>
+    <th><a href="https://scikit-learn.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/scikit-learn2.svg" height="50" width="50"></a></th>
+    <th><a href="https://numpy.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/numpy-icon.svg" height="50" width="50"></a></th>
+    <th><a href="https://matplotlib.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/Matplotlib_icon.svg" height="50" width="50"></a></th>
+     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/seaborn2.svg" height="50" width="50"></a></th>
+<th><a href="https://docs.opencv.org/master/"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="50" width="50"></a></th>
+<th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/flask.png" height="50" width="50"></a></th>
+<th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="https://github.com/buddhadeb33/buddhadeb33/blob/master/logos/scipy.png" height="50" width="50"></a></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
@@ -84,22 +87,13 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
     <th>Numpy</th>
     <th>Matplotlib</th>
     <th>Seaborn</th>
-  </tr>
-  </table><br>
-  <table>
-  <tr>
-    <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
-    <th><a href="https://docs.opencv.org/master/"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="64" width="64"></a></th>
-    <th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="Images/flask.png" height="64" width="68"></a></th>
-    <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="Images/scipy.png" height="64" width="64"></a></th>
-  </tr>
-  <tr>
-    <th>Flutter</th>
     <th>OpenCV</th>
     <th>Flask</th>
     <th>Scipy</th>
   </tr>
-</table><br>
+  </table><br>
+  <table>
+<br>
 
 ### Tools & IDE ⭐ :
 <table>
@@ -110,7 +104,7 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
     <th><a href="https://www.tableau.com/" target="_blank"><img src="Images/tableau.svg" height="64" width="64"></a></th>
     <th><a href="https://colab.research.google.com/" target="_blank"><img src="Images/google-colab.png" height="64" width="64"></a></th>
     <th><a href="https://www.anaconda.com/" target="_blank"><img src="Images/anaconda.png" height="64" width="64"></a></th>
-    <th><a href="https://www.paperspace.com/" target="_blank"><img src="Images/paperspace2.jpg" height="64" width="64"></a></th>
+ 
   </tr>
   <tr>
     <th>Jupyter</th>
@@ -119,7 +113,7 @@ I am a versatilist and easily adapt to different hats (software Developer 🌐, 
     <th>Tableau</th>
     <th>Google Colab</th>
     <th>Anaconda</th>
-    <th>Paperspace</th>
+    
     
   </tr>
 </table>
