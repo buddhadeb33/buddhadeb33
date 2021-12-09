@@ -118,10 +118,13 @@
 </table>
 <br>
   
-|            Container          |      Clouds                 |
+
+### Other Techs 🌟 :
+  
+|            Container          |      Clouds                 | 
 |-------------------------------|-----------------------------|
-|<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="64" width="80"></a>           |<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="64" width="80"></a>            |
-|             Docker            |              AWS            |
+|<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="64" width="80"></a>           |<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="64" width="80"></a>|
+|            Docker            |              AWS            |
   
   
   
