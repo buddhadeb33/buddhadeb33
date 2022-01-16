@@ -198,4 +198,4 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/buddhadeb33/buddhadeb33)
 
 
-
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
