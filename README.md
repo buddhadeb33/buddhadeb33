@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/aaroha33/aaroha33/blob/master/logos/my_image.jpeg" width="130" />
+
 
 # Hello 👋 World 🌐
 
